@@ -1,12 +1,23 @@
-## Hi there 👋
+# We are XWP
 
-<!--
+## About XWP
+We are building a better web at enterprise scale. XWP engineers the technologies that make the web better for everyone. We make publishing easier with modern editorial tools, improve ownership through cleverly personalized workflows, and boost conversions with lightning-fast user experiences.
 
-**Here are some ideas to get you started:**
+## Case Studies
+Here’s some work we’re proud of:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Web Stories for WordPress (with Google)
+https://xwp.co/work/web-stories-for-wordpress
+https://github.com/GoogleForCreators/web-stories-wp 
+
+### American Traveler
+https://xwp.co/work/american-traveler
+
+### COWGIRL Magazine
+https://xwp.co/work/cowgirl-magazine
+
+## Careers
+XWP is always looking for exceptional talent. Learn more about our current openings.
+
+## Contact
+We can be reached through our website and found on Facebook, GitHub, LinkedIn and Twitter.
